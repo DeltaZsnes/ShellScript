@@ -1,2 +1,1 @@
-source ./a.sh
-echo $A
+B=531
