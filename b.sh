@@ -1,2 +1,2 @@
 source ./a.sh
-echo A
+echo $A
